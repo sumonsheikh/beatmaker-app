@@ -30,6 +30,6 @@ window.addEventListener("load",()=>{
             visual.removeChild(this);
         });
         
-    }
+    };
 
 });
